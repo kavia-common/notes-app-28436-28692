@@ -1,1 +1,45 @@
-.env
+# Misc
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.packages
+.pub-cache/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Flutter/Dart
+.dart_tool/
+.buildlog/
+.packages
+.pub/
+coverage/
+flutter_*.png
+
+# Android
+**/android/local.properties
+**/android/.gradle/
+**/android/captures/
+**/android/app/build/
+**/android/gradle/
+**/android/.cxx/
+
+# iOS
+**/ios/Flutter/Flutter.framework
+**/ios/Flutter/Flutter.podspec
+**/ios/Flutter/Generated.xcconfig
+**/ios/Flutter/App.framework
+**/ios/Flutter/ephemeral/
+**/ios/.symlinks/
+**/ios/Pods/
+**/ios/Runner.xcworkspace/
+**/ios/build/
+
+# VSCode/IDE
+.vscode/
+.idea/
+.gradle/
+
+# Build outputs
+build/
