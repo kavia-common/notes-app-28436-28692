@@ -4,13 +4,15 @@ publish_to: 'none'
 version: 1.0.0+1
 
 environment:
-  sdk: ">=3.3.0 <4.0.0"
+  sdk: ">=3.5.0 <4.0.0"
+  flutter: ">=3.16.0"
 
 dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^1.0.8
   http: ^1.1.0
+  # Keeping riverpod optional for future state management; not used by minimal app but harmless.
   flutter_riverpod: ^2.5.1
 
 dev_dependencies:

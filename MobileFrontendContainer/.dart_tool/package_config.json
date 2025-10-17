@@ -209,10 +209,10 @@
       "name": "notes_app_mobile",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "3.3"
+      "languageVersion": "3.5"
     }
   ],
-  "generated": "2025-10-17T05:07:54.684031Z",
+  "generated": "2025-10-17T05:16:45.199480Z",
   "generator": "pub",
   "generatorVersion": "3.7.0",
   "flutterRoot": "file:///opt/flutter",

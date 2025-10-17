@@ -1,0 +1,1 @@
+/home/kavia/workspace/code-generation/notes-app-28436-28692/MobileFrontendContainer/build/app/intermediates/cxx/RelWithDebInfo/3x6m2e5p/obj/armeabi-v7a
